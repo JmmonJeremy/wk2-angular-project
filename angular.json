@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "wk2-angular-project": {
+    "w2s2-basics-server-example": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -69,10 +69,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "wk2-angular-project:build:production"
+              "buildTarget": "w2s2-basics-server-example:build:production"
             },
             "development": {
-              "buildTarget": "wk2-angular-project:build:development"
+              "buildTarget": "w2s2-basics-server-example:build:development"
             }
           },
           "defaultConfiguration": "development"
