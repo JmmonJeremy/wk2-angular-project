@@ -1,4 +1,4 @@
-# Angular First App Practice: [wk2-angular-project](https://jmmonjeremy.github.io/wk2-angular-project/)
+# Angular Basics Tutorial: [Wk2 Section2 Server Example](https://jmmonjeremy.github.io/wk2-angular-project/)
 Repository for my BYUI WDD 430 Web Full-Stack Development class
 # ProjectTemplate
 
