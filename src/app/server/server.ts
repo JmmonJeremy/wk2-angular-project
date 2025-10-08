@@ -6,8 +6,8 @@ import { Component } from "@angular/core";
   standalone: false, 
   styles: [`
       .online {
-      color: white;
-      }
+        color: white;
+      }      
     `]
 })
 export class Server {
